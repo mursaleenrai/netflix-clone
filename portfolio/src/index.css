@@ -1,0 +1,47 @@
+/* netflix-sign-in buttton */
+.netflix-signin-button {
+  background-color: #e50914;
+  color: #fff;
+  padding: 9px 21px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.netflix-signin-button:hover {
+  /* background-color: #d10813; */
+  background-color: #a0070f;
+}
+
+.btn {
+  padding: 16px 36.8px;
+  background-color: #e50914;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* netflix-input */
+
+.email-input-container {
+  margin-bottom: 20px;
+}
+
+.email-input-container input {
+  width: 24rem;
+  background-color: #333;
+  opacity: 0.8;
+  padding: 1.4rem 2rem;
+  border: 1px solid #999;
+  border-radius: 5px;
+  color: #fff;
+}
+
+/* form */
